@@ -8,8 +8,19 @@
 			<Item Name="LocalizableStrings.addRecord_poikrg8_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_t7ecqr8_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_vcdznjj_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.AreaCannotBeLess.Value" Value="Area cannot be less than 100 sq m" />
+			<Item Name="LocalizableStrings.Button_hrkqubn_caption.Value" Value="Actions" />
 			<Item Name="LocalizableStrings.Button_o6dd1s5_caption.Value" Value="Push me!" />
+			<Item Name="LocalizableStrings.ExpansionPanel_ilyg6ua_title.Value" Value="Realty visit" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_boteykh_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_5yh1kfw_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_ovbun7q_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_nw8efo6_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_c09c1lj_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_rse1h28_caption.Value" Value="Actions" />
 			<Item Name="LocalizableStrings.NumberInput_ak7ox5b_label.Value" Value="Number" />
+			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Price cannot be less than 50.0 USD" />
+			<Item Name="LocalizableStrings.RunAvgPriceMenuItem_caption.Value" Value="Run average price calculation" />
 		</Items>
 	</Group>
 </Resources>
